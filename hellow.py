@@ -1,2 +1,2 @@
 print('hello world')
-input()
+input("Press Enter...")
